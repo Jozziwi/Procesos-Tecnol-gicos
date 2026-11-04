@@ -1,4 +1,4 @@
-# Procesos-Tecnol-gicos
+```mermaid
 graph TD
     A[Materia Prima: Cacahuate Concasse/Entero] --> B[1. Selección y Limpieza]
     B --> C[2. Tostado Previo de la Almendra]
@@ -27,4 +27,5 @@ graph TD
 
     N --> P[7. Enfriamiento Controlled]
     P --> Q[8. Control de Calidad y Humedad Residual]
-    Q --> R[9. Empacado Automatizado con Atmósfera Modificada / Se
+    Q --> R[9. Empacado Automatizado con Atmósfera Modificada / Sellado]
+```
